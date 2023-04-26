@@ -1,0 +1,8 @@
+22h 53m 54s = 82434 seconds
+
+In 82434 seconds 14 468 314 582 cigarettes are smoked
+
+14 468 314 582 cigarettes/82434 seconds
+|- 175513,921221826 cigarettes/sec
+|- 175513.921221826 cigarettes/sec
+~15 164 402 793 cigarettes/24h
